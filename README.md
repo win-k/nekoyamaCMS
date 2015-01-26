@@ -17,4 +17,4 @@ Licensed under MIT, see[LICENSE](https://github.com/win-k/nekoyamaCMS/blob/maste
 
 Copyright
 ========
-Copyright (c) 1999 - 2015 IEAS Group
+Copyright (c) 1999 - 2015 IEAS Group & AIZM All Rights Reserved.
